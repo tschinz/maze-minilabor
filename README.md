@@ -37,7 +37,7 @@ It is intended for the student from EPTM in Sion and BFO in Visp.
 ## Usage
 * Install [Eclipse](https://www.eclipse.org/downloads)
 * Import the either the student- or masterVersion archive
-* Follow the instructions in [Project Maze German](docs/Projet MAZE-d.pdf) or [Project Maze French](docs/Projet MAZE-f.pdf)
+* Follow the instructions in [Project Maze German](docs/Projet_MAZE-d.pdf) or [Project Maze French](docs/Projet_MAZE-f.pdf)
 * Have Fun
 
 ## Credits
