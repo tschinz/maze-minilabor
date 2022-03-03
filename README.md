@@ -8,20 +8,23 @@
 
 
 <p align="center">
+  <a href="#description">Description</a> •
   <a href="#structure">Structure</a> •
   <a href="#usage">Usage</a> •
   <a href="#credits">Credits</a> •
   <a href="#find-us-on">Find us on</a>
 </p>
 
-Practical Minilabor for promote the HES-SO Valais Wallis Engineering School in Sion.
+# Description
+
+Practical Minilabor to promote the HES-SO Valais Wallis Engineering School in Sion.
 
 It is intended for the student from EPTM in Sion and BFO in Visp.
 
   <img src="./img/eptm-logo.svg" alt="eptm logo" width="250">
-  <img src="./img/bfo-logo.png" alt="bfo logo" width="250">      
+  <img src="./img/bfo-logo.png" alt="bfo logo" width="250">
 
-## Structure
+# Structure
 
 ```
 +-- archive/                     # Eclipse project archive zip files ready to import
@@ -34,18 +37,18 @@ It is intended for the student from EPTM in Sion and BFO in Visp.
 +-- README.md                    # This file
 ```
 
-## Usage
+# Usage
 * Install [Eclipse](https://www.eclipse.org/downloads)
 * Import the either the student- or masterVersion archive
 * Follow the instructions in [Project Maze German](docs/Projet_MAZE-d.pdf) or [Project Maze French](docs/Projet_MAZE-f.pdf)
 * Have Fun
 
-## Credits
+# Credits
 
 * [Dr. Pierre-André Mudry](mailto:pierre-andre.mudry@hevs.ch)
 * [Silvan Zahno](mailto:silvan.zahno@hevs.ch)
 
-## Find us on
+# Find us on
 
 * Webpage [hevs.ch](https://www.hevs.ch)
 * LinkedIn [HES-SO Valais-Wallis](https://www.linkedin.com/groups/104343/)
